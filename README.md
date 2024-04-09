@@ -12,5 +12,8 @@ Bluetooth: By connecting a Bluetooth module to your device running OpenCV, you c
 
 Network: Setting up a network connection allows your program to communicate with the sound source on the same network and adjust volume remotely.
 
+https://github.com/pratham-bhatnagar/Gesture-Volume-Control/raw/master/images/hand_landmarks_docs.png
+
+
 ![image](https://github.com/KaziAfrozAlam/Wireless_Sound_Control_using_OpenCV_main/assets/80971832/5fc1f9db-e4d3-4d27-b836-30d062a08f92)
 
