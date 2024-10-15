@@ -1,4 +1,9 @@
-# Wireless_Sound_Control_using_OpenCV_main
+# Wireless Sound Control using OpenCV: Hand Gesture Recognition and Volume Control
+
+This project uses OpenCV and hand gesture recognition to create a wireless sound control system. The program captures video input to detect hand gestures, utilizing techniques like background subtraction and skin color segmentation to isolate the hand. MediaPipe assists in tracking hand landmarks, such as fingertips, enabling specific gestures for controlling volume. For example, the distance between the thumb and index finger can adjust volume levels, while closing fingers completely mutes the sound.
+
+For wireless communication, the program can connect to the sound source via Bluetooth or network. A Bluetooth module can send commands to a Bluetooth speaker, or a network connection can allow remote volume adjustments on devices within the same network. This provides a hands-free and intuitive way to control audio levels from a distance.
+
 
 **Hand Gesture Recognition:** You'll use OpenCV for video capture and hand detection. Techniques like background subtraction and skin color segmentation can help isolate the hand in the frame. Then, libraries like MediaPipe can be leveraged to track specific hand landmarks (fingertips).
 
